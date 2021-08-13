@@ -1,0 +1,52 @@
+html, body {
+    height: 325px;
+    width: 350px;
+}
+
+body {
+    background-image: url("x1.png");
+    background-repeat: no-repeat;
+}
+
+.buttons {
+    position: absolute;
+    left: 0;
+    top: 20%;
+    width: 100%;
+}
+
+.btn {
+    background-color: #9FC5E3;
+    display:inline-block;
+    padding:0.1em 1.2em;
+    margin:0 0.1em 15px 0;
+    border: #2380cc;
+    border-style: solid;
+    border-radius:0.5em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-size: 13px;
+    font-weight:300;
+    color:#FFFFFF;
+    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+    text-align:center;
+    transition: all 0.2s;
+    width: 155px;
+}
+.btn:hover {
+    border-color: rgba(0,0,0,1);
+    cursor: pointer;
+}
+
+.left {
+    margin-right: 5px;
+}
+
+.right {
+    margin-left: 5px;
+}
+
+.row {
+    text-align: center;
+}
+
