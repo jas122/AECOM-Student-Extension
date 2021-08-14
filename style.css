@@ -1,40 +1,45 @@
 html, body {
-    height: 325px;
-    width: 350px;
+    height: 400px;
+    width: 400px;
 }
 
 body {
     background-image: url("x1.png");
     background-repeat: no-repeat;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
 
 .buttons {
     position: absolute;
     left: 0;
-    top: 20%;
+    top: 25%;
     width: 100%;
 }
 
 .btn {
-    background-color: #9FC5E3;
-    display:inline-block;
-    padding:0.1em 1.2em;
-    margin:0 0.1em 15px 0;
-    border: #2380cc;
-    border-style: solid;
-    border-radius:0.5em;
-    box-sizing: border-box;
-    text-decoration:none;
-    font-size: 13px;
-    font-weight:300;
-    color:#FFFFFF;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    color: #FFFFFF;
     text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
-    text-align:center;
     transition: all 0.2s;
-    width: 155px;
+    background-color: #5EA5FD;
+    
+    width: 180px;
+    display: inline-block;
+    padding: 0.1em 1.2em;
+    margin: 0 0.1em 15px 0;
+    
+    border: #A5B6B3;
+    border-style: solid;
+    border-radius: 0.5em;
+    box-sizing: border-box;
 }
+
 .btn:hover {
-    border-color: rgba(0,0,0,1);
+    box-shadow: 1.95px 1.95px 2.6px rgba(95, 116, 112, 0.3);
+    
     cursor: pointer;
 }
 
@@ -48,5 +53,16 @@ body {
 
 .row {
     text-align: center;
+}
+
+.attribution {
+    position: absolute;
+    top: 95%;
+    left: 24%;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
 }
 
