@@ -1,19 +1,17 @@
 html, body {
-    height: 400px;
+    height: 315px;
     width: 400px;
 }
 
 body {
-    background-image: url("x1.png");
-    background-repeat: no-repeat;
     font-family: 'Atkinson Hyperlegible', sans-serif;
 }
 
 .buttons {
     position: absolute;
     left: 0;
-    top: 25%;
-    width: 100%;
+    top: 16px;
+    width: 400px;
 }
 
 .btn {
@@ -28,7 +26,7 @@ body {
     
     width: 180px;
     display: inline-block;
-    padding: 0.1em 1.2em;
+    padding: 0.3em 1.2em;
     margin: 0 0.1em 15px 0;
     
     border: #A5B6B3;
@@ -57,8 +55,8 @@ body {
 
 .attribution {
     position: absolute;
-    top: 95%;
-    left: 24%;
+    top: 300px;
+    left: 96px;
 }
 
 a {

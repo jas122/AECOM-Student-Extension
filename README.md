@@ -3,10 +3,11 @@
 
 
 ## Description
-The AECOM Student Extension was made to facilitate access to important websites for medical students at the Albert Einstein College of Medicine.
+The AECOM Student Extension was made to facilitate access to important websites for medical students at the Albert Einstein College of Medicine. The extension does not collect any identifying information from the end user.
+
 
 ## License
-Copyright © 2021 Jasper Sim. The Albert Einstein College of Medicine
+Copyright © 2021 Jasper Sim. The Albert Einstein College of Medicine in the Bronx, NY has no affiliation with this software.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
