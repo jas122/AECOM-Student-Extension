@@ -1,5 +1,5 @@
 html, body {
-    height: 315px;
+    height: 360px;
     width: 400px;
 }
 
@@ -55,7 +55,7 @@ body {
 
 .attribution {
     position: absolute;
-    top: 300px;
+    top: 345px;
     left: 96px;
 }
 
