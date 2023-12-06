@@ -1,6 +1,6 @@
 # AECOM Student Extension
 ## Installation
-Google Chrome Extension: https://chrome.google.com/webstore/detail/aecom-student-extension/akjphfpbdbnblhnkajcoadhngppbmffl/related?hl=en&authuser=0
+Google Chrome Extension: https://chromewebstore.google.com/detail/aecom-student-extension/akjphfpbdbnblhnkajcoadhngppbmffl?hl=en&pli=1
 
 ## Description
 The AECOM Student Extension was made to facilitate access to important websites for medical students at the Albert Einstein College of Medicine. The extension does not collect any identifying information from the end user.
