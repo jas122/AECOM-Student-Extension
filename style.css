@@ -1,10 +1,11 @@
 html, body {
-    height: 575px;
+    height: 625px;
     width: 400px;
 }
 
 body {
     font-family: 'Atkinson Hyperlegible', sans-serif;
+    src: url(AtkinsonHyperlegible-Regular.ttf);
 }
 
 .buttons {
