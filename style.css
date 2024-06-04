@@ -3,9 +3,9 @@ html, body {
     width: 400px;
 }
 
-body {
-    font-family: 'Atkinson Hyperlegible', sans-serif;
-    src: url(AtkinsonHyperlegible-Regular.ttf);
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url("AtkinsonHyperlegible-Regular.ttf");
 }
 
 .buttons {
@@ -15,8 +15,8 @@ body {
 }
 
 .btn {
-    font-family: 'Atkinson Hyperlegible', sans-serif;
-    font-size: 15px;
+    font-family: 'Atkinson Hyperlegible';
+    font-size: 14px;
     font-weight: 400;
     text-align: center;
     color: #FFFFFF;
@@ -59,8 +59,8 @@ body {
 
 .title {
     text-align: center;
-    margin-bottom: 10px;
-    font-size: 15px;
+    margin-bottom: 11px;
+    font-size: 14px;
 }
 
 a {
