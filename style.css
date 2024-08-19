@@ -41,6 +41,10 @@ html, body {
     cursor: pointer;
 }
 
+.btn_long {
+    width: 200px;
+}
+
 .left {
     margin-right: 5px;
 }
