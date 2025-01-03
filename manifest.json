@@ -1,6 +1,6 @@
 {
     "name": "AECOM Student Extension",
-    "version": "2.12",
+    "version": "2.13",
     "manifest_version": 3,
     "action": {
         "default_popup": "popup.html",
